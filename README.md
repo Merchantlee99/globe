@@ -28,4 +28,5 @@ Globe is a globe-based web platform that aggregates open geospatial and Earth ob
 - [docs/mvp-backlog.md](/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe/docs/mvp-backlog.md)
 - [docs/agent-kickoff-prompts.md](/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe/docs/agent-kickoff-prompts.md)
 - [docs/parallel-dev-runbook.md](/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe/docs/parallel-dev-runbook.md)
+- [docs/thread-launch-checklist.md](/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe-integration/docs/thread-launch-checklist.md)
 - [docs/contracts/api-contract-v1.md](/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe/docs/contracts/api-contract-v1.md)

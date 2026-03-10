@@ -1,0 +1,24 @@
+{
+  "summary": "지난 24시간 기준으로 전역 데이터에서는 알래스카 지진, 브라질 열점, 미국 중서부 기상 경보가 동시에 관측되었습니다.",
+  "sourceCount": 3,
+  "eventCount": 3,
+  "sources": ["usgs", "firms", "weather"],
+  "generatedAt": "2026-03-10T06:30:00Z",
+  "citations": [
+    {
+      "eventId": "evt_usgs_alaska_001",
+      "source": "usgs",
+      "title": "M 4.1 - Alaska"
+    },
+    {
+      "eventId": "evt_firms_brazil_001",
+      "source": "firms",
+      "title": "Thermal hotspot detected - Mato Grosso"
+    },
+    {
+      "eventId": "evt_weather_us_001",
+      "source": "weather",
+      "title": "Winter storm warning - Minnesota"
+    }
+  ]
+}
