@@ -5,6 +5,7 @@
   "packageManager": "pnpm@10.6.2",
   "scripts": {
     "status:parallel": "bash scripts/parallel-status.sh",
+    "verify:contracts": "node scripts/verify-contract-fixtures.mjs",
     "sync:frontend": "bash scripts/sync-agent-branch.sh frontend",
     "sync:backend": "bash scripts/sync-agent-branch.sh backend",
     "sync:integration": "bash scripts/sync-agent-branch.sh integration",

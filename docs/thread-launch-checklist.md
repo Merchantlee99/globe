@@ -76,6 +76,7 @@ cwd는 `/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe-api`로 �
 - mock fixtures
 - launch/runbook maintenance
 - branch sync and merge governance
+- env contract and validation scripts
 
 ## 5. Verification
 
@@ -84,6 +85,7 @@ cwd는 `/Users/isanginn/Documents/01_Personal/04_Vibe Coding/03_Globe-api`로 �
 ```bash
 git branch --show-current
 git status --short --branch
+npm run verify:contracts
 ```
 
 기대 브랜치:
