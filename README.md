@@ -1,6 +1,6 @@
 # Globe
 
-Globe is a web-based geo intelligence dashboard that starts as an MVP operating console and expands into an ontology-backed SaaS platform.
+Globe is a globe-based web platform that aggregates open geospatial and Earth observation data into a unified view, starting as an MVP operating console and expanding into an ontology-backed SaaS platform.
 
 ## Current focus
 
